@@ -1,10 +1,6 @@
 team: Cat
 
-<<<<<<< HEAD
 manager: meacou
-=======
-manager: mehok
->>>>>>> 1791eb5655e99a4a5d1b0b56edf15ad630a51b32
 
 coach : zelda
 
@@ -13,3 +9,5 @@ members:
 - mifa
 - darekrl
 - rebal
+
+release version: 1.0
