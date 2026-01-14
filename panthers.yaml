@@ -2,10 +2,11 @@ team: Panthers
 
 manager: Sebastian
 
-coach : Shirley
+coach: Shirley
 
 members:
-- Violet
-- Stella
-- Anthony
-- Eval
+  - Violet
+  - Stella
+  - Anthony
+  - Eval
+  - feature-1에서의 또 추가한 작업
