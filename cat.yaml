@@ -2,12 +2,13 @@ team: Cat
 
 manager: meacou
 
-coach : zelda
+coach: zelda
 
 members:
-- link
-- mifa
-- darekrl
-- rebal
+  - link
+  - mifa
+  - darekrl
+  - rebal
+  - jeajin
 
 release version: 1.0
