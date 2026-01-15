@@ -1,21 +1,4 @@
 team: Cat
 
-manager: meacou
-
-coach: zelda
-
-description: Develop에서 한 첫 번째 작업
-
-new: develop에서 작업한 새로운 문구2
-modify: 2025-10-15 - feature-1에서 작업1
-
-zz: zz
-
-members:
-  - link
-  - mifa
-  - darekrl
-  - rebal
-  - jeajin
-
-release version: 1.0
+new: update-2에서 작업한 새로운 문구
+description: update-2에서 작업한 새로운 설명 불필요한 내용들을 삭제
