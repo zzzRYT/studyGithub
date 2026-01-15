@@ -3,3 +3,8 @@ export function sendVerificationEmail(email: string) {
   const token = generateToken();
   return { email, token };
 }
+
+export function verifyToken(token: string): boolean {
+  // 토큰 검증
+  return token.length === 32;
+}
