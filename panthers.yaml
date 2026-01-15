@@ -4,6 +4,8 @@ manager: Sebastian
 
 coach: Shirley
 
+check: 'check A'
+
 members:
   - Violet
   - Stella
