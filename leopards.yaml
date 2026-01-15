@@ -2,10 +2,12 @@ team: Leopards
 
 manager: Nora
 
-coach : Melissa
+coach: Melissa
+
+test: '작업4 테스트'
 
 members:
-- Linda
-- William
-- David
-- Donho
+  - Linda
+  - William
+  - David
+  - Donho
