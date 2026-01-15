@@ -2,10 +2,12 @@ team: Leopards
 
 manager: Nora
 
-coach : Melissa
+new: 'hello 3'
+
+coach: Melissa
 
 members:
-- Linda
-- William
-- David
-- Donho
+  - Linda
+  - William
+  - David
+  - Donho
