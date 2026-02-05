@@ -4,8 +4,10 @@ manager: Deborah
 
 coach: Grace
 
+description: Tigers team입니다.
+
 member:
-- Linda
-- William
-- David
-- George
+  - Linda
+  - William
+  - David
+  - George
