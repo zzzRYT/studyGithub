@@ -2,7 +2,9 @@ team: Pumas
 
 manager: Jude
 
+coach: 다시다시
+
 members:
-- Ezra
-- Carter
-- Finn
+  - Ezra
+  - Carter
+  - Finn
